@@ -1,0 +1,6 @@
+[submodule "Robio-Client"]
+	path = Robio-Client
+	url = https://github.com/chaouchsalah/Robio-Client.git
+[submodule "Robio-Server"]
+	path = Robio-Server
+	url = https://github.com/chaouchsalah/Robio-Server.git
